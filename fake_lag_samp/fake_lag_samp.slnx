@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fake_lag_samp/fake_lag_samp.vcxproj" Id="62ab6743-0d5d-4819-9460-b1e95ae1415d" />
+</Solution>

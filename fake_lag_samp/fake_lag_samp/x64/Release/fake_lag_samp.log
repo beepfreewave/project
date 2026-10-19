@@ -1,0 +1,14 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  fake_lag_samp.cpp
+  Создание кода
+  2009 of 2854 functions (70.4%) were compiled, the rest were copied from previous compilation.
+    65 functions were new in current compilation
+    169 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  fake_lag_samp.vcxproj -> C:\Users\Game_X_Lv\source\repos\fake_lag_samp\x64\Release\fake_lag_samp.exe
